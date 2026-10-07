@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Adam McKinnon"
+  },
+  "description": "An AI Knowledge Assistant intended to help make sense of the role of AI augmentation in the future role of RPPs",
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Education & Research",
+    "defaultPrompt": [
+      "Let's discuss the future"
+    ],
+    "developerName": "Adam McKinnon",
+    "displayName": "Soloman",
+    "longDescription": "An AI Knowledge Assistant intended to help make sense of the role of AI augmentation in the future role of RPPs",
+    "shortDescription": "An AI Knowledge Assistant intended to help make sense of the role of AI augmentation in the future role of RPPs"
+  },
+  "name": "gpt-96abefc2215478c454c5e1f3acb111d7",
+  "skills": "./skills/",
+  "version": "0.2.1+bundle.21c43bc47a1c2e6c1b73d6875584e468"
+}
