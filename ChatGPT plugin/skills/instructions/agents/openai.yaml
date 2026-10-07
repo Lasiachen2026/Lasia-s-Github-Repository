@@ -1,0 +1,5 @@
+interface:
+  default_prompt: Let's discuss the future
+  display_name: Soloman
+  short_description: An AI Knowledge Assistant intended to help make sense of the
+    rol

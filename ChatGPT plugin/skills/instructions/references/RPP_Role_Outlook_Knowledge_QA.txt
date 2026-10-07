@@ -1,0 +1,12 @@
+RPP ROLE OUTLOOK KNOWLEDGE FILE QA
+
+Source rows: 542
+Profiles: 29
+Distinct job titles: 22
+Distinct capabilities: 18
+Future states: AI led with human oversight, Fully automated, Human initiated with AI response, Human only, No longer required
+Markdown characters: 397532
+Markdown UTF-8 bytes: 398036
+QA issues: 0
+
+PASS: All task statements and rationales are preserved verbatim, all task IDs are represented, position-level skills are consistent, and the future-state taxonomy matches the CSV exactly.
